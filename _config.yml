@@ -4,6 +4,8 @@ baseurl: ""
 url: "https://paulls20.github.io/"
 future: true
 highlighter: rouge
+twitter_username: paulont
+github_username:  Paulls20
 
 exclude:
   - README.adoc

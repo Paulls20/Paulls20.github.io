@@ -8,7 +8,7 @@ twitter_username: paulont
 github_username:  Paulls20
 
 exclude:
-  - README.adoc
+  - README.md
   - Gemfile
 
 asciidoctor:
@@ -17,6 +17,5 @@ asciidoctor:
     - source-highlighter=rouge
 
 plugins:
-  - jekyll-asciidoc
   - jekyll-time-to-read
   - jekyll-redirect-from
